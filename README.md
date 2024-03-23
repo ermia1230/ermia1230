@@ -16,7 +16,7 @@ You can connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com
 </p>
 🛠️ Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,postgres,prolog,elixir,linux,js,html,css,redux,react,tailwind,git&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,postgres,elixir,linux,js,html,css,redux,react,tailwind,git&perline=8)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermia1230&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
