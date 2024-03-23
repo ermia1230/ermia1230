@@ -21,4 +21,4 @@ You can connect with me on LinkedIn: LinkedIn Profile
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel3178&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel3178&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermia1230&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
